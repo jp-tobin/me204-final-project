@@ -1,0 +1,217 @@
+industry_code,naics_code,industry_name,series_id_emp
+10113300,1133,Logging,CES1011330001
+10212100,2121,Coal mining,CES1021210001
+10212200,2122,Metal ore mining,CES1021220001
+10212300,2123,Nonmetallic mineral mining and quarrying,CES1021230001
+20236100,2361,Residential building construction,CES2023610001
+20236200,2362,Nonresidential building construction,CES2023620001
+20237100,2371,Utility system construction,CES2023710001
+20237200,2372,Land subdivision,CES2023720001
+20237300,2373,"Highway, street, and bridge construction",CES2023730001
+20237900,2379,Other heavy and civil engineering construction,CES2023790001
+20238100,2381,"Foundation, structure, and building exterior contractors",CES2023810001
+20238200,2382,Building equipment contractors,CES2023820001
+20238300,2383,Building finishing contractors,CES2023830001
+20238900,2389,Other specialty trade contractors,CES2023890001
+31321100,3211,Sawmills and wood preservation,CES3132110001
+31321200,3212,"Veneer, plywood, and engineered wood product manufacturing",CES3132120001
+31321900,3219,Other wood product manufacturing,CES3132190001
+31327100,3271,Clay product and refractory manufacturing,CES3132710001
+31327200,3272,Glass and glass product manufacturing,CES3132720001
+31327300,3273,Cement and concrete product manufacturing,CES3132730001
+31331100,3311,Iron and steel mills and ferroalloy manufacturing,CES3133110001
+31331200,3312,Steel product manufacturing from purchased steel,CES3133120001
+31331500,3315,Foundries,CES3133150001
+31332100,3321,Forging and stamping,CES3133210001
+31332300,3323,Architectural and structural metals manufacturing,CES3133230001
+31332400,3324,"Boiler, tank, and shipping container manufacturing",CES3133240001
+31332700,3327,"Machine shops; turned product; and screw, nut, and bolt manufacturing",CES3133270001
+31332800,3328,"Coating, engraving, heat treating, and allied activities",CES3133280001
+31332900,3329,"Cutlery, handtool, and other fabricated metal product manufacturing",CES3133290001
+31333100,3331,"Agriculture, construction, and mining machinery manufacturing",CES3133310001
+31333200,3332,Industrial machinery manufacturing,CES3133320001
+31333300,3333,Commercial and service industry machinery manufacturing,CES3133330001
+31333400,3334,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing",CES3133340001
+31333500,3335,Metalworking machinery manufacturing,CES3133350001
+31333600,3336,"Engine, turbine, and power transmission equipment manufacturing",CES3133360001
+31333900,3339,Other general purpose machinery manufacturing,CES3133390001
+31334100,3341,Computer and peripheral equipment manufacturing,CES3133410001
+31334200,3342,Communications equipment manufacturing,CES3133420001
+31334400,3344,Semiconductor and other electronic component manufacturing,CES3133440001
+31334500,3345,"Navigational, measuring, electromedical, and control instruments manufacturing",CES3133450001
+31335100,3351,Electric lighting equipment manufacturing,CES3133510001
+31335200,3352,Household appliance manufacturing,CES3133520001
+31335300,3353,Electrical equipment manufacturing,CES3133530001
+31335900,3359,Other electrical equipment and component manufacturing,CES3133590001
+31336100,3361,Motor vehicle manufacturing,CES3133610001
+31336200,3362,Motor vehicle body and trailer manufacturing,CES3133620001
+31336300,3363,Motor vehicle parts manufacturing,CES3133630001
+31336400,3364,Aerospace product and parts manufacturing,CES3133640001
+31336600,3366,Ship and boat building,CES3133660001
+31337100,3371,Household and institutional furniture and kitchen cabinet manufacturing,CES3133710001
+31337200,3372,Office furniture (including fixtures) and other furniture related product manufacturing,CES3133720001
+31339100,3391,Medical equipment and supplies manufacturing,CES3133910001
+31339900,3399,Other miscellaneous manufacturing,CES3133990001
+32311100,3111,Animal food manufacturing,CES3231110001
+32311200,3112,Grain and oilseed milling,CES3231120001
+32311300,3113,Sugar and confectionery product manufacturing,CES3231130001
+32311400,3114,Fruit and vegetable preserving and specialty food manufacturing,CES3231140001
+32311500,3115,Dairy product manufacturing,CES3231150001
+32311600,3116,Animal slaughtering and processing,CES3231160001
+32311700,3117,Seafood product preparation and packaging,CES3231170001
+32311800,3118,Bakeries and tortilla manufacturing,CES3231180001
+32311900,3119,Other food manufacturing,CES3231190001
+32313200,3132,Fabric mills,CES3231320001
+32314100,3141,Textile furnishings mills,CES3231410001
+32314900,3149,Other textile product mills,CES3231490001
+32322100,3221,"Pulp, paper, and paperboard mills",CES3232210001
+32322200,3222,Converted paper product manufacturing,CES3232220001
+32325100,3251,Basic chemical manufacturing,CES3232510001
+32325200,3252,"Resin, synthetic rubber, and artificial and synthetic fibers and filaments manufacturing",CES3232520001
+32325300,3253,"Pesticide, fertilizer, and other agricultural chemical manufacturing",CES3232530001
+32325400,3254,Pharmaceutical and medicine manufacturing,CES3232540001
+32325500,3255,"Paint, coating, and adhesive manufacturing",CES3232550001
+32325600,3256,"Soap, cleaning compound, and toilet preparation manufacturing",CES3232560001
+32325900,3259,Other chemical product and preparation manufacturing,CES3232590001
+32326100,3261,Plastics product manufacturing,CES3232610001
+32326200,3262,Rubber product manufacturing,CES3232620001
+32329100,3121,Beverage manufacturing,CES3232910001
+41423100,4231,Motor vehicle and motor vehicle parts and supplies merchant wholesalers,CES4142310001
+41423200,4232,Furniture and home furnishing merchant wholesalers,CES4142320001
+41423300,4233,Lumber and other construction materials merchant wholesalers,CES4142330001
+41423400,4234,Professional and commercial equipment and supplies merchant wholesalers,CES4142340001
+41423500,4235,Metal and mineral (except petroleum) merchant wholesalers,CES4142350001
+41423600,4236,Household appliances and electrical and electronic goods merchant wholesalers,CES4142360001
+41423700,4237,"Hardware, and plumbing and heating equipment and supplies merchant wholesalers",CES4142370001
+41423800,4238,"Machinery, equipment, and supplies merchant wholesalers",CES4142380001
+41423900,4239,Miscellaneous durable goods merchant wholesalers,CES4142390001
+41424100,4241,Paper and paper product merchant wholesalers,CES4142410001
+41424200,4242,Drugs and druggists' sundries merchant wholesalers,CES4142420001
+41424300,4243,"Apparel, piece goods, and notions merchant wholesalers",CES4142430001
+41424400,4244,Grocery and related product merchant wholesalers,CES4142440001
+41424500,4245,Farm product raw material merchant wholesalers,CES4142450001
+41424600,4246,Chemical and allied products merchant wholesalers,CES4142460001
+41424700,4247,Petroleum and petroleum products merchant wholesalers,CES4142470001
+41424800,4248,"Beer, wine, and distilled alcoholic beverage merchant wholesalers",CES4142480001
+41424900,4249,Miscellaneous nondurable goods merchant wholesalers,CES4142490001
+42441100,4411,Automobile dealers,CES4244110001
+42441200,4412,Other motor vehicle dealers,CES4244120001
+42441300,4413,"Automotive parts, accessories, and tire retailers",CES4244130001
+42444100,4441,Building material and supplies dealers,CES4244410001
+42444200,4442,Lawn and garden equipment and supplies retailers,CES4244420001
+42445100,4451,Grocery and convenience retailers,CES4244510001
+42445200,4452,Specialty food retailers,CES4244520001
+42445300,4453,"Beer, wine, and liquor retailers",CES4244530001
+42449100,4491,Furniture and home furnishings retailers,CES4244910001
+42449200,4492,Electronics and appliance retailers,CES4244920001
+42455100,4551,Department stores,CES4245510001
+42455200,4552,"Warehouse clubs, supercenters, and other general merchandise retailers",CES4245520001
+42457100,4571,Gasoline stations,CES4245710001
+42457200,4572,Fuel dealers,CES4245720001
+42458100,4581,Clothing and clothing accessories retailers,CES4245810001
+42458200,4582,Shoe retailers,CES4245820001
+42458300,4583,"Jewelry, luggage, and leather goods retailers",CES4245830001
+42459100,4591,"Sporting goods, hobby, and musical instrument retailers",CES4245910001
+42459200,4592,Book retailers and news dealers,CES4245920001
+42459300,4593,Florists,CES4245930001
+42459400,4594,"Office supplies, stationery, and gift retailers",CES4245940001
+42459500,4595,Used merchandise retailers,CES4245950001
+42459900,4599,Other miscellaneous retailers,CES4245990001
+43481100,4811,Scheduled air transportation,CES4348110001
+43481200,4812,Nonscheduled air transportation,CES4348120001
+43484100,4841,General freight trucking,CES4348410001
+43484200,4842,Specialized freight trucking,CES4348420001
+43485300,4853,Taxi and limousine service,CES4348530001
+43485400,4854,School and employee bus transportation,CES4348540001
+43485900,4859,Other transit and ground passenger transportation,CES4348590001
+43488100,4881,Support activities for air transportation,CES4348810001
+43488300,4883,Support activities for water transportation,CES4348830001
+43488400,4884,Support activities for road transportation,CES4348840001
+43488500,4885,Freight transportation arrangement,CES4348850001
+43492100,4921,Couriers and express delivery services,CES4349210001
+44221100,2211,"Electric power generation, transmission and distribution",CES4422110001
+44221200,2212,Natural gas distribution,CES4422120001
+44221300,2213,"Water, sewage, and other systems",CES4422130001
+50513100,5131,"Newspaper, periodical, book, and directory publishers",CES5051310001
+50513200,5132,Software publishers,CES5051320001
+50516100,5161,Radio and television broadcasting stations,CES5051610001
+50516200,5162,"Media streaming distribution services, social networks, and other media networks and content providers",CES5051620001
+50517100,5171,Wired and wireless telecommunications (except satellite),CES5051710001
+55522100,5221,Depository credit intermediation,CES5552210001
+55522200,5222,Nondepository credit intermediation,CES5552220001
+55522300,5223,Activities related to credit intermediation,CES5552230001
+55524100,5241,Insurance carriers,CES5552410001
+55524200,5242,"Agencies, brokerages, and other insurance related activities",CES5552420001
+55531100,5311,Lessors of real estate,CES5553110001
+55531200,5312,Offices of real estate agents and brokers,CES5553120001
+55531300,5313,Activities related to real estate,CES5553130001
+55532100,5321,Automotive equipment rental and leasing,CES5553210001
+55532200,5322,Consumer goods rental,CES5553220001
+55532300,5323,General rental centers,CES5553230001
+55532400,5324,Commercial and industrial machinery and equipment rental and leasing,CES5553240001
+60541100,5411,Legal services,CES6054110001
+60541200,5412,"Accounting, tax preparation, bookkeeping, and payroll services",CES6054120001
+60541300,5413,"Architectural, engineering, and related services",CES6054130001
+60541400,5414,Specialized design services,CES6054140001
+60541500,5415,Computer systems design and related services,CES6054150001
+60541600,5416,"Management, scientific, and technical consulting services",CES6054160001
+60541700,5417,Scientific research and development services,CES6054170001
+60541800,5418,"Advertising, public relations, and related services",CES6054180001
+60541900,5419,"Other professional, scientific, and technical services",CES6054190001
+60561100,5611,Office administrative services,CES6056110001
+60561200,5612,Facilities support services,CES6056120001
+60561300,5613,Employment services,CES6056130001
+60561400,5614,Business support services,CES6056140001
+60561500,5615,Travel arrangement and reservation services,CES6056150001
+60561600,5616,Investigation and security services,CES6056160001
+60561700,5617,Services to buildings and dwellings,CES6056170001
+60561900,5619,Other support services,CES6056190001
+60562100,5621,Waste collection,CES6056210001
+60562200,5622,Waste treatment and disposal,CES6056220001
+60562900,5629,Remediation and other waste management services,CES6056290001
+65611100,6111,Private elementary and secondary schools,CES6561110001
+65611400,6114,Private business schools and computer and management training,CES6561140001
+65611500,6115,Private technical and trade schools,CES6561150001
+65611600,6116,Other private schools and instruction,CES6561160001
+65611700,6117,Private educational support services,CES6561170001
+65621100,6211,Offices of physicians,CES6562110001
+65621200,6212,Offices of dentists,CES6562120001
+65621300,6213,Offices of other health practitioners,CES6562130001
+65621400,6214,Outpatient care centers,CES6562140001
+65621500,6215,Medical and diagnostic laboratories,CES6562150001
+65621600,6216,Home health care services,CES6562160001
+65621900,6219,Other ambulatory health care services,CES6562190001
+65622100,6221,General medical and surgical hospitals,CES6562210001
+65622200,6222,Psychiatric and substance abuse hospitals,CES6562220001
+65622300,6223,"Specialty, except psychiatric and substance abuse, hospitals",CES6562230001
+65623100,6231,Skilled nursing care facilities,CES6562310001
+65623200,6232,"Residential intellectual and developmental disability, mental health, and substance abuse facilities",CES6562320001
+65623300,6233,Continuing care retirement communities and assisted living facilities for the elderly,CES6562330001
+65623900,6239,Other residential care facilities,CES6562390001
+65624100,6241,Individual and family services,CES6562410001
+65624200,6242,"Community food and housing, and emergency and other relief services",CES6562420001
+65624300,6243,Vocational rehabilitation services,CES6562430001
+65624400,6244,Child care services,CES6562440001
+70711100,7111,Performing arts companies,CES7071110001
+70711200,7112,Spectator sports,CES7071120001
+70711500,7115,"Independent artists, writers, and performers",CES7071150001
+70713100,7131,Amusement parks and arcades,CES7071310001
+70713200,7132,Gambling industries,CES7071320001
+70713900,7139,Other amusement and recreation industries,CES7071390001
+70721100,7211,Traveler accommodation,CES7072110001
+70721200,7212,Recreational vehicle (RV) parks and recreational camps,CES7072120001
+70722300,7223,Special food services,CES7072230001
+70722400,7224,"Drinking places, alcoholic beverages",CES7072240001
+70722500,7225,Restaurants and other eating places,CES7072250001
+80811100,8111,Automotive repair and maintenance,CES8081110001
+80811200,8112,Electronic and precision equipment repair and maintenance,CES8081120001
+80811300,8113,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,CES8081130001
+80811400,8114,Personal and household goods repair and maintenance,CES8081140001
+80812100,8121,Personal care services,CES8081210001
+80812200,8122,Death care services,CES8081220001
+80812300,8123,Drycleaning and laundry services,CES8081230001
+80812900,8129,Other personal services,CES8081290001
+80813200,8132,Grantmaking and giving services,CES8081320001
+80813300,8133,Social advocacy organizations,CES8081330001
+80813400,8134,Civic and social organizations,CES8081340001
+80813900,8139,"Business, professional, labor, political, and similar organizations",CES8081390001

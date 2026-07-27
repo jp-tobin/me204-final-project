@@ -20,5 +20,8 @@ Replace every `[bracketed]` placeholder once you fill it in.
 
 ## How to reproduce
 
+Required packages:
+pip install openpyxl to read in AIOE excel sheet
+
 [Tell your reader how to get keys, which python commands to run and any other things they need to know when replicating your work (imagine they are people with similar technical skills as yours)]
 
