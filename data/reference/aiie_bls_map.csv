@@ -1,0 +1,193 @@
+naics,industry_title,aiie,ce_code,industry_name
+1133,Logging,-1.360161,10113300,Logging
+2121,Coal Mining,-1.146242,10212100,Coal mining
+2122,Metal Ore Mining,-0.8924032,10212200,Metal ore mining
+2123,Nonmetallic Mineral Mining and Quarrying,-1.037903,10212300,Nonmetallic mineral mining and quarrying
+2211,"Electric Power Generation, Transmission and Distribution",0.2096187,44221100,"Electric power generation, transmission and distribution"
+2212,Natural Gas Distribution,0.3453538,44221200,Natural gas distribution
+2213,"Water, Sewage and Other Systems",-0.1564226,44221300,"Water, sewage, and other systems"
+2361,Residential Building Construction,-0.7602519,20236100,Residential building construction
+2362,Nonresidential Building Construction,-0.6632232,20236200,Nonresidential building construction
+2371,Utility System Construction,-1.176381,20237100,Utility system construction
+2372,Land Subdivision,0.5814018,20237200,Land subdivision
+2373,"Highway, Street, and Bridge Construction",-1.296256,20237300,"Highway, street, and bridge construction"
+2379,Other Heavy and Civil Engineering Construction,-1.104619,20237900,Other heavy and civil engineering construction
+2381,"Foundation, Structure, and Building Exterior Contractors",-1.757023,20238100,"Foundation, structure, and building exterior contractors"
+2382,Building Equipment Contractors,-0.8320791,20238200,Building equipment contractors
+2383,Building Finishing Contractors,-1.602616,20238300,Building finishing contractors
+2389,Other Specialty Trade Contractors,-1.358564,20238900,Other specialty trade contractors
+3111,Animal Food Manufacturing,-0.78914,32311100,Animal food manufacturing
+3112,Grain and Oilseed Milling,-0.7206286,32311200,Grain and oilseed milling
+3113,Sugar and Confectionery Product Manufacturing,-0.7729946,32311300,Sugar and confectionery product manufacturing
+3114,Fruit and Vegetable Preserving and Specialty Food Manufacturing,-0.980808,32311400,Fruit and vegetable preserving and specialty food manufacturing
+3115,Dairy Product Manufacturing,-0.8435335,32311500,Dairy product manufacturing
+3116,Animal Slaughtering and Processing,-1.662866,32311600,Animal slaughtering and processing
+3117,Seafood Product Preparation and Packaging,-1.258223,32311700,Seafood product preparation and packaging
+3118,Bakeries and Tortilla Manufacturing,-0.8015609,32311800,Bakeries and tortilla manufacturing
+3119,Other Food Manufacturing,-0.8538909,32311900,Other food manufacturing
+3121,Beverage Manufacturing,-0.6586424,32329100,Beverage manufacturing
+3132,Fabric Mills,-1.114104,32313200,Fabric mills
+3141,Textile Furnishings Mills,-1.067818,32314100,Textile furnishings mills
+3149,Other Textile Product Mills,-0.561571,32314900,Other textile product mills
+3211,Sawmills and Wood Preservation,-1.421037,31321100,Sawmills and wood preservation
+3212,"Veneer, Plywood, and Engineered Wood Product Manufacturing",-1.13457,31321200,"Veneer, plywood, and engineered wood product manufacturing"
+3219,Other Wood Product Manufacturing,-1.146,31321900,Other wood product manufacturing
+3221,"Pulp, Paper, and Paperboard Mills",-0.9502621,32322100,"Pulp, paper, and paperboard mills"
+3222,Converted Paper Product Manufacturing,-0.8241846,32322200,Converted paper product manufacturing
+3251,"Chemical Manufacturing (3251, 3252, 3253, and 3259 only)",-0.3080356,32325100,Basic chemical manufacturing
+3252,"Chemical Manufacturing (3251, 3252, 3253, and 3259 only)",-0.3080356,32325200,"Resin, synthetic rubber, and artificial and synthetic fibers and filaments manufacturing"
+3253,"Chemical Manufacturing (3251, 3252, 3253, and 3259 only)",-0.3080356,32325300,"Pesticide, fertilizer, and other agricultural chemical manufacturing"
+3254,Pharmaceutical and Medicine Manufacturing,0.4637086,32325400,Pharmaceutical and medicine manufacturing
+3255,Chemical Manufacturing (3255 and 3256 only),-0.1203409,32325500,"Paint, coating, and adhesive manufacturing"
+3256,Chemical Manufacturing (3255 and 3256 only),-0.1203409,32325600,"Soap, cleaning compound, and toilet preparation manufacturing"
+3259,"Chemical Manufacturing (3251, 3252, 3253, and 3259 only)",-0.3080356,32325900,Other chemical product and preparation manufacturing
+3261,Plastics Product Manufacturing,-0.8657592,32326100,Plastics product manufacturing
+3262,Rubber Product Manufacturing,-1.077709,32326200,Rubber product manufacturing
+327,Nonmetallic Mineral Product Manufacturing,-0.9656745,31327000,Nonmetallic mineral product manufacturing
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,-0.9913391,31331100,Iron and steel mills and ferroalloy manufacturing
+3312,Steel Product Manufacturing from Purchased Steel,-0.9156145,31331200,Steel product manufacturing from purchased steel
+3315,Foundries,-1.078051,31331500,Foundries
+3321,"Fabricated Metal Product Manufacturing (3321, 3322, 3325, 3326, and 3329 only)",-0.740151,31332100,Forging and stamping
+3323,Fabricated Metal Product Manufacturing (3323 and 3324 only),-0.5005816,31332300,Architectural and structural metals manufacturing
+3324,Fabricated Metal Product Manufacturing (3323 and 3324 only),-0.5005816,31332400,"Boiler, tank, and shipping container manufacturing"
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",-0.6099281,31332700,"Machine shops; turned product; and screw, nut, and bolt manufacturing"
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",-0.7753809,31332800,"Coating, engraving, heat treating, and allied activities"
+3329,"Fabricated Metal Product Manufacturing (3321, 3322, 3325, 3326, and 3329 only)",-0.740151,31332900,"Cutlery, handtool, and other fabricated metal product manufacturing"
+3331,"Machinery Manufacturing (3331, 3332, 3334, and 3339 only)",-0.0746392,31333100,"Agriculture, construction, and mining machinery manufacturing"
+3332,"Machinery Manufacturing (3331, 3332, 3334, and 3339 only)",-0.0746392,31333200,Industrial machinery manufacturing
+3333,Commercial and Service Industry Machinery Manufacturing,0.3308995,31333300,Commercial and service industry machinery manufacturing
+3334,"Machinery Manufacturing (3331, 3332, 3334, and 3339 only)",-0.0746392,31333400,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing"
+3335,Metalworking Machinery Manufacturing,-0.346932,31333500,Metalworking machinery manufacturing
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",0.1307197,31333600,"Engine, turbine, and power transmission equipment manufacturing"
+3339,"Machinery Manufacturing (3331, 3332, 3334, and 3339 only)",-0.0746392,31333900,Other general purpose machinery manufacturing
+3341,Computer and Peripheral Equipment Manufacturing,1.596084,31334100,Computer and peripheral equipment manufacturing
+3342,Communications Equipment Manufacturing,1.181725,31334200,Communications equipment manufacturing
+3344,Semiconductor and Other Electronic Component Manufacturing,0.6828295,31334400,Semiconductor and other electronic component manufacturing
+3345,"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",1.113945,31334500,"Navigational, measuring, electromedical, and control instruments manufacturing"
+3351,Electric Lighting Equipment Manufacturing,0.5806971,31335100,Electric lighting equipment manufacturing
+3352,Household Appliance Manufacturing,0.0281708,31335200,Household appliance manufacturing
+3353,Electrical Equipment Manufacturing,0.332973,31335300,Electrical equipment manufacturing
+3359,Other Electrical Equipment and Component Manufacturing,-0.0384073,31335900,Other electrical equipment and component manufacturing
+3361,Motor Vehicle Manufacturing,-0.3023474,31336100,Motor vehicle manufacturing
+3362,Motor Vehicle Body and Trailer Manufacturing,-0.8058288,31336200,Motor vehicle body and trailer manufacturing
+3363,Motor Vehicle Parts Manufacturing,-0.5860924,31336300,Motor vehicle parts manufacturing
+3364,Aerospace Product and Parts Manufacturing,0.5189539,31336400,Aerospace product and parts manufacturing
+3366,Ship and Boat Building,-0.6675431,31336600,Ship and boat building
+3371,Furniture and Related Product Manufacturing (3371 and 3372 only),-1.000794,31337100,Household and institutional furniture and kitchen cabinet manufacturing
+3372,Furniture and Related Product Manufacturing (3371 and 3372 only),-1.000794,31337200,Office furniture (including fixtures) and other furniture related product manufacturing
+3391,Medical Equipment and Supplies Manufacturing,0.2301883,31339100,Medical equipment and supplies manufacturing
+3399,Other Miscellaneous Manufacturing,-0.068744,31339900,Other miscellaneous manufacturing
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,-0.1601646,41423100,Motor vehicle and motor vehicle parts and supplies merchant wholesalers
+4232,"Merchant Wholesalers, Durable Goods (4232, 4233, 4235, 4236, 4237, and 4239 only)",0.2424777,41423200,Furniture and home furnishing merchant wholesalers
+4233,"Merchant Wholesalers, Durable Goods (4232, 4233, 4235, 4236, 4237, and 4239 only)",0.2424777,41423300,Lumber and other construction materials merchant wholesalers
+4234,Professional and Commercial Equipment and Supplies Merchant Wholesalers,1.041147,41423400,Professional and commercial equipment and supplies merchant wholesalers
+4235,"Merchant Wholesalers, Durable Goods (4232, 4233, 4235, 4236, 4237, and 4239 only)",0.2424777,41423500,Metal and mineral (except petroleum) merchant wholesalers
+4236,"Merchant Wholesalers, Durable Goods (4232, 4233, 4235, 4236, 4237, and 4239 only)",0.2424777,41423600,Household appliances and electrical and electronic goods merchant wholesalers
+4237,"Merchant Wholesalers, Durable Goods (4232, 4233, 4235, 4236, 4237, and 4239 only)",0.2424777,41423700,"Hardware, and plumbing and heating equipment and supplies merchant wholesalers"
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",0.2607571,41423800,"Machinery, equipment, and supplies merchant wholesalers"
+4239,"Merchant Wholesalers, Durable Goods (4232, 4233, 4235, 4236, 4237, and 4239 only)",0.2424777,41423900,Miscellaneous durable goods merchant wholesalers
+4241,"Merchant Wholesalers, Nondurable Goods (4241, 4247, and 4249 only)",0.6838242,41424100,Paper and paper product merchant wholesalers
+4242,"Merchant Wholesalers, Nondurable Goods (4242 and 4246 only)",-0.0027297,41424200,Drugs and druggists' sundries merchant wholesalers
+4243,"Apparel, Piece Goods, and Notions Merchant Wholesalers",0.6573116,41424300,"Apparel, piece goods, and notions merchant wholesalers"
+4244,"Merchant Wholesalers, Nondurable Goods (4244 and 4248 only)",-0.358483,41424400,Grocery and related product merchant wholesalers
+4245,Farm Product Raw Material Merchant Wholesalers,-0.7109669,41424500,Farm product raw material merchant wholesalers
+4246,"Merchant Wholesalers, Nondurable Goods (4242 and 4246 only)",-0.0027297,41424600,Chemical and allied products merchant wholesalers
+4247,"Merchant Wholesalers, Nondurable Goods (4241, 4247, and 4249 only)",0.6838242,41424700,Petroleum and petroleum products merchant wholesalers
+4248,"Merchant Wholesalers, Nondurable Goods (4244 and 4248 only)",-0.358483,41424800,"Beer, wine, and distilled alcoholic beverage merchant wholesalers"
+4249,"Merchant Wholesalers, Nondurable Goods (4241, 4247, and 4249 only)",0.6838242,41424900,Miscellaneous nondurable goods merchant wholesalers
+4411,Automobile Dealers,-0.1668894,42441100,Automobile dealers
+4412,Other Motor Vehicle Dealers,-0.1300993,42441200,Other motor vehicle dealers
+4413,"Automotive Parts, Accessories, and Tire Stores",-0.6871853,42441300,"Automotive parts, accessories, and tire retailers"
+4441,Building Material and Supplies Dealers,0.1045359,42444100,Building material and supplies dealers
+4442,Lawn and Garden Equipment and Supplies Stores,-0.4641636,42444200,Lawn and garden equipment and supplies retailers
+4451,Food and Beverage Stores (4451 and 4452 only),-0.4066956,42445100,Grocery and convenience retailers
+4452,Food and Beverage Stores (4451 and 4452 only),-0.4066956,42445200,Specialty food retailers
+4453,"Beer, Wine, and Liquor Stores",-0.0185797,42445300,"Beer, wine, and liquor retailers"
+4811,Scheduled Air Transportation,-0.4555449,43481100,Scheduled air transportation
+4812,Nonscheduled Air Transportation,0.1134526,43481200,Nonscheduled air transportation
+484,Truck Transportation,-1.282191,43484000,Truck transportation
+4853,Taxi and Limousine Service,1.369857,43485300,Taxi and limousine service
+4854,School and Employee Bus Transportation,0.076602,43485400,School and employee bus transportation
+4859,Other Transit and Ground Passenger Transportation,0.9623069,43485900,Other transit and ground passenger transportation
+4881,Support Activities for Air Transportation,-0.3353398,43488100,Support activities for air transportation
+4883,Support Activities for Water Transportation,-1.411064,43488300,Support activities for water transportation
+4884,Support Activities for Road Transportation,-0.9504591,43488400,Support activities for road transportation
+4885,Freight Transportation Arrangement,1.024609,43488500,Freight transportation arrangement
+4921,Couriers and Express Delivery Services,-1.150431,43492100,Couriers and express delivery services
+517,Telecommunications,0.2466103,50517000,Telecommunications
+5221,Credit Intermediation and Related Activities (5221 And 5223 only),1.888684,55522100,Depository credit intermediation
+5222,Nondepository Credit Intermediation,2.113345,55522200,Nondepository credit intermediation
+5223,Credit Intermediation and Related Activities (5221 And 5223 only),1.888684,55522300,Activities related to credit intermediation
+5241,Insurance Carriers,2.058794,55524100,Insurance carriers
+5242,"Agencies, Brokerages, and Other Insurance Related Activities",2.120996,55524200,"Agencies, brokerages, and other insurance related activities"
+531,Real Estate,0.5238351,55531000,Real estate
+5321,Automotive Equipment Rental and Leasing,-0.1278947,55532100,Automotive equipment rental and leasing
+5322,"Rental and Leasing Services (5322, 5323, and 5324 only)",-0.2705971,55532200,Consumer goods rental
+5323,"Rental and Leasing Services (5322, 5323, and 5324 only)",-0.2705971,55532300,General rental centers
+5324,"Rental and Leasing Services (5322, 5323, and 5324 only)",-0.2705971,55532400,Commercial and industrial machinery and equipment rental and leasing
+5411,Legal Services,2.156741,60541100,Legal services
+5412,"Accounting, Tax Preparation, Bookkeeping, and Payroll Services",2.215628,60541200,"Accounting, tax preparation, bookkeeping, and payroll services"
+5413,"Architectural, Engineering, and Related Services",1.492814,60541300,"Architectural, engineering, and related services"
+5414,Specialized Design Services,1.280983,60541400,Specialized design services
+5415,Computer Systems Design and Related Services,1.860226,60541500,Computer systems design and related services
+5416,"Management, Scientific, and Technical Consulting Services",1.8047,60541600,"Management, scientific, and technical consulting services"
+5417,Scientific Research and Development Services,1.635407,60541700,Scientific research and development services
+5418,"Advertising, Public Relations, and Related Services",1.305607,60541800,"Advertising, public relations, and related services"
+5419,"Other Professional, Scientific, and Technical Services",0.6022445,60541900,"Other professional, scientific, and technical services"
+5611,Office Administrative Services,1.753769,60561100,Office administrative services
+5612,Facilities Support Services,-1.008228,60561200,Facilities support services
+5613,Employment Services,-0.7234654,60561300,Employment services
+5614,Business Support Services,1.704965,60561400,Business support services
+5615,Travel Arrangement and Reservation Services,1.68347,60561500,Travel arrangement and reservation services
+5616,Investigation and Security Services,-0.3442498,60561600,Investigation and security services
+5617,Services to Buildings and Dwellings,-1.998597,60561700,Services to buildings and dwellings
+5619,Other Support Services,-0.4762704,60561900,Other support services
+5621,Waste Collection,-1.332496,60562100,Waste collection
+5622,Waste Treatment and Disposal,-0.7965308,60562200,Waste treatment and disposal
+5629,Remediation and Other Waste Management Services,-0.7835333,60562900,Remediation and other waste management services
+6111,Elementary and Secondary Schools,1.315956,65611100,Private elementary and secondary schools
+6114,Business Schools and Computer and Management Training,1.741192,65611400,Private business schools and computer and management training
+6115,Technical and Trade Schools,0.947026,65611500,Private technical and trade schools
+6116,Other Schools and Instruction,0.6729133,65611600,Other private schools and instruction
+6117,Educational Support Services,1.605398,65611700,Private educational support services
+6211,Offices of Physicians,1.009907,65621100,Offices of physicians
+6212,Offices of Dentists,0.4154884,65621200,Offices of dentists
+6213,Offices of Other Health Practitioners,0.7008373,65621300,Offices of other health practitioners
+6214,Outpatient Care Centers,0.9686477,65621400,Outpatient care centers
+6215,Medical and Diagnostic Laboratories,0.6741955,65621500,Medical and diagnostic laboratories
+6216,Home Health Care Services,0.6927072,65621600,Home health care services
+6219,Other Ambulatory Health Care Services,0.7869348,65621900,Other ambulatory health care services
+6221,General Medical and Surgical Hospitals,0.5274962,65622100,General medical and surgical hospitals
+6222,Psychiatric and Substance Abuse Hospitals,0.5211326,65622200,Psychiatric and substance abuse hospitals
+6223,Specialty (except Psychiatric and Substance Abuse) Hospitals,0.5900623,65622300,"Specialty, except psychiatric and substance abuse, hospitals"
+6231,Nursing Care Facilities (Skilled Nursing Facilities),-0.2430007,65623100,Skilled nursing care facilities
+6232,"Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities",0.8572415,65623200,"Residential intellectual and developmental disability, mental health, and substance abuse facilities"
+6233,Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly,-0.4843864,65623300,Continuing care retirement communities and assisted living facilities for the elderly
+6239,Other Residential Care Facilities,0.7190148,65623900,Other residential care facilities
+6241,Individual and Family Services,1.163092,65624100,Individual and family services
+6242,"Community Food and Housing, and Emergency and Other Relief Services",0.8514432,65624200,"Community food and housing, and emergency and other relief services"
+6243,Vocational Rehabilitation Services,0.2863293,65624300,Vocational rehabilitation services
+6244,Child Day Care Services,0.0572718,65624400,Child care services
+7111,Performing Arts Companies,0.1677087,70711100,Performing arts companies
+7112,Spectator Sports,-0.2576417,70711200,Spectator sports
+7115,"Independent Artists, Writers, and Performers",0.6088023,70711500,"Independent artists, writers, and performers"
+7131,Amusement Parks and Arcades,-0.533819,70713100,Amusement parks and arcades
+7132,Gambling Industries,-0.1355364,70713200,Gambling industries
+7139,Other Amusement and Recreation Industries,-1.085068,70713900,Other amusement and recreation industries
+7211,Traveler Accommodation,-0.902616,70721100,Traveler accommodation
+7212,RV (Recreational Vehicle) Parks and Recreational Camps,-0.404939,70721200,Recreational vehicle (RV) parks and recreational camps
+7223,Special Food Services,-1.060899,70722300,Special food services
+7224,Drinking Places (Alcoholic Beverages),-0.99913,70722400,"Drinking places, alcoholic beverages"
+7225,Restaurants and Other Eating Places,-1.171986,70722500,Restaurants and other eating places
+8111,Automotive Repair and Maintenance,-1.094294,80811100,Automotive repair and maintenance
+8112,Electronic and Precision Equipment Repair and Maintenance,0.1066877,80811200,Electronic and precision equipment repair and maintenance
+8113,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,-0.7797639,80811300,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance
+8114,Personal and Household Goods Repair and Maintenance,-0.7464604,80811400,Personal and household goods repair and maintenance
+8121,Personal Care Services,-0.4751154,80812100,Personal care services
+8122,Death Care Services,-0.3155441,80812200,Death care services
+8123,Drycleaning and Laundry Services,-1.148211,80812300,Drycleaning and laundry services
+8129,Other Personal Services,-0.7702041,80812900,Other personal services
+8132,Grantmaking and Giving Services,1.721215,80813200,Grantmaking and giving services
+8133,Social Advocacy Organizations,1.194087,80813300,Social advocacy organizations
+8134,Civic and Social Organizations,-0.3505448,80813400,Civic and social organizations
+8139,"Business, Professional, Labor, Political, and Similar Organizations",1.360341,80813900,"Business, professional, labor, political, and similar organizations"
