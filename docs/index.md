@@ -11,7 +11,7 @@ I take a look at what has happened so far in the US labour market, attempting to
 
 I make use of AI industry exposure scores calculated by Felten, Raj, and Seamans[^1] by matching AI capabilities (such as language processing and image recognition) to the skills and abilities required in different occupations, then aggregating those occupational scores to create an industry-level exposure measure.
 
-<iframe src="./assets/emp_growth_ai_anim.html" width="100%" height=500 frameborder="0"></iframe>
+<iframe src="./assets/emp_growth_ai_anim.html" width="100%" height=800 frameborder="0"></iframe>
 
 The
 
