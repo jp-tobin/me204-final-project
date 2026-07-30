@@ -11,11 +11,16 @@ I take a look at what has happened so far in the US labour market, attempting to
 
 I make use of AI industry exposure scores calculated by Felten, Raj, and Seamans[^1] by matching AI capabilities (such as language processing and image recognition) to the skills and abilities required in different occupations, then aggregating those occupational scores to create an industry-level exposure measure.
 
-<iframe src="./assets/emp_growth_ai_anim.html" width="100%" height=1000 frameborder="0"></iframe>
+<iframe src="./assets/emp_growth_ai_anim.html" width="100%" height=500 frameborder="0"></iframe>
 
 The
 
 
+So what is happening?
+There are two concepts related to technology adoption that offer up explanations as to why AI exposed firms might be hiring rather than firing their workers:
+-	J-Curve: AI initially reduces productivity as firms invest capital and effort in reorganisation, training, and process redesign, before generating larger productivity gains and labour market adjustments. 2019-04JCurvebrief.final2_.pdf
+-	 Jevons paradox: AI makes tasks more efficient and cheaper, which increases demand for those products and services enough that overall employment in related sectors grows rather than shrinks. (Torsten Slok at Apollo has compiled a number of examples of this: )
+Of course, the most likely explanation to draw from this particular set of data is that measuring AI’s impacts is hard and imperfect, and picking these out of the broader 
 
 
 
