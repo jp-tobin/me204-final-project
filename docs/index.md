@@ -3,5 +3,5 @@
 text
 chart:
 
-[My chart:]("./assets/emp_growth_ai_anim.html")
+[My chart:](./assets/emp_growth_ai_anim.html)
 
