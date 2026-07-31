@@ -16,7 +16,7 @@ I attempt to extract signal from all the noise (both in the data and the media) 
 
 I make use of [__AI industry exposure (AIIE)__ scores](https://github.com/AIOE-Data/AIOE) calculated by Felten, Raj, and Seamans[^1] by matching AI capabilities (such as language processing and image recognition) to the skills and abilities required in different occupations, then aggregating those occupational scores to create an industry-level exposure measure.
 
-The AIIE scores also do not match perfectly to the industry categories used by the BLS - both due to differences in aggregation and as a result of an update to the North American Industry Classification following the publication of the AIIE scores. As a result, I was only able to match 197 BLS industries to the 250 AIIE scores.
+The AIIE scores also do not match perfectly to the industry categories used by the BLS - both due to differences in aggregation and as a result of an update to the North American Industry Classification following the publication of the AIIE scores. As a result, I was only able to match 198 of 249 BLS industries to AIIE scores, giving me about 80% coverage of codes.
 
 ## What Does the Data Say?
 
@@ -64,7 +64,7 @@ Historically, many technological advances have followed this pattern. Jevons ini
 If AI is following a similar trajectory, highly exposed industries would be expected to grow, to the benefit of the workers within them.
 
 ## Conclusions and next steps
-AI exposure alone is not a reliable predictor of employment decline. Measuring AI’s impacts is hard and imperfect, and distinguising these from broader factors like industry demand, macro conditions, and sector-specific shocks would require better data or more sophisticated analysis. An event study methodology ([similar to this one used to assess AI's impact on business formations](https://guillgall.github.io/files/firm_entry_ai.pdf?trk=public_post_comment-text))[^3] would help to control for non-AI confounding factors.
+AI exposure alone is not a reliable predictor of employment decline. Measuring AI’s impacts is hard and imperfect, and distinguising these from broader factors like industry demand, macro conditions, and sector-specific shocks would require better data or more sophisticated analysis. For example, an event study ([similar to this one used to assess AI's impact on business formations](https://guillgall.github.io/files/firm_entry_ai.pdf?trk=public_post_comment-text))[^3] would show how AI impacts evolved over time relative to the pre-AI baseline, while also controlling for non-AI confounding factors.
 
 While some highly exposed industries have lost jobs, others have grown, and the overall relationship between exposure and employment growth is weak. This supports the idea that, at least so far, AI is more likely to reshape tasks within industries than produce immediate, uniform job losses across exposed sectors. Incorporating other labour market indicators, such as hours worked or productivity, could help to distinguish between the different directions of impact between industries.
 
