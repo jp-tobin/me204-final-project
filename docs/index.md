@@ -1,3 +1,8 @@
+---
+layout: post
+title: Jobs-pocalypse now?
+---
+
 # Jobs-pocalypse now?
 ### What does the dawn of the AI age mean for your career prospects?
 

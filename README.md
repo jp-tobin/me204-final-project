@@ -81,5 +81,34 @@ Run the notebooks in the following order:
 
 ### Expected Outputs
 
-Running all three notebooks should populate the below file structure with all items in bold:
+Running all three notebooks should populate the below file structure:
 
+```text
+.
+├── data
+│   ├── processed
+│   │   └── employment.csv
+│   ├── raw
+│   │   └── employment
+│   │       ├── bls_employment_1.json
+│   │       ├── bls_employment_2.json
+│   │       ├── bls_employment_3.json
+│   │       └── bls_employment_4.json
+│   └── reference
+│       ├── aiie_bls_map.csv
+│       ├── ce_industry.tsv
+│       └── industry_code_map.csv
+├── docs
+│   ├── assets
+│   │   ├── emp_growth_ai_anim.html
+│   │   ├── emp_growth_ai_static.png
+│   │   ├── fed_ai_scenarios.png
+│   │   ├── growth_ai_coef.html
+│   │   └── growth_ai_coef.png
+│   └── index.md
+├── notebooks
+│   ├── NB01-Data-Collection.ipynb
+│   ├── NB02-Data-Transformation.ipynb
+│   └── NB03-JP-Tobin-Data-Analysis.ipynb
+└── README.md
+```
