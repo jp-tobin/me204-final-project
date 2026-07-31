@@ -1,14 +1,14 @@
 # Jobs-pocalypse now?
 ### What does the dawn of the AI age mean for your career prospects?
 
-In the roughly three and a half years have passed since ChatGPT launched, the consensus has emerged that its economic impacts will fall somewhere in between the creation of endless abundance and the extinction of humankind.
+In the roughly three and a half years that have passed since ChatGPT launched, the consensus has emerged that it's economic impacts will fall somewhere in between the creation of endless abundance and the extinction of humankind.
 
 #### It's not every day that the Federal Reserve presents "extinction" as a scenario
 
 ![Dallas Fed AI scenarios](./assets/fed_ai_scenarios.png)
 <small>Source: [Dallas Fed (2025)](https://www.dallasfed.org/research/economics/2025/0624)</small>
 
-With each new frontier model release, it becomes harder to doubt that AI will have a significant impact on work and daily life. the timing and direction of that impact is very much up for debate. At first thought it seems sensible to assume that as AI becomes more capable and widely adopted, employment in AI exposed industries will fall in a relatively linear fashion: 
+With each new frontier model release, it becomes harder to doubt that AI will have a significant impact on work and daily life. The timing and direction of that impact is very much up for debate. At first thought it seems sensible to assume that as AI becomes more capable and widely adopted, employment in AI exposed industries will fall in a relatively linear fashion: 
 > __AI gets adopted by firms → tasks get automated → workers get replaced → employment goes down__ 
 
 ## Measuring AI Exposure
