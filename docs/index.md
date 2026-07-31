@@ -4,6 +4,7 @@
 In the roughly three and a half years have passed since ChatGPT launched, the consensus has emerged that its economic impacts will fall somewhere in between the creation of endless abundance and the extinction of humankind.
 
  ### It's not every day that the Federal Reserve presents "extinction" as a scenario
+
  ![Dallas Fed AI scenarios](./assets/fed_ai_scenarios.png)
 <small>Source: [Dallas Fed (2025)](https://www.dallasfed.org/research/economics/2025/0624)</small>
 
