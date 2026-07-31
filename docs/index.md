@@ -24,11 +24,18 @@ The AIIE scores also do not match perfectly to the industry categories used by t
 Despite widespread concerns about automation, highly AI-exposed industries have not experienced consistently weaker employment growth. The estimated relationship between AI exposure and employment growth is slightly positive, but the explanatory power is extremely weak (R<sup>2</sup> of c.0.01). Knowing how exposed an industry is to AI tells us almost nothing about how employment in that industry has changed so far.
 
 <iframe src="./assets/emp_growth_ai_anim.html" width="100%" height=800 frameborder="0"></iframe>
-<small>Source: AIIE scores mapped onto employment growth rates derived from the US Bureau of Labour Statistics (BLS) Current Employment Statistics (employment levels 1000s, seasonally adjusted).</small>
+<small>Source: Felten et al. (2021), US Bureau of Labour Statistics.</small>
 
 The most AI-exposed industries are concentrated in the professional and business services and finance sectors, but their employment outcomes variedy widely: `legal services` grew by 4.9% and `insurance agencies and brokerages` grew by 3.1%, while `credit intermediation` fell by about 12% and `computer systems design` fell by 4.5%.
 
-Some of the strongest employment growth is in private education and health services. Several of these have moderate to positive AI exposure scores, but are typically associated with in-person service delivery that is unlikely to be automated away any time soon.
+The upwards slope of the trendline is suprising relative to the narrative that AI will destroy jobs. A possible challenge to this is that industries with higher AIIE score may simply have already been on a different trajectory before the arrival of generative AI. If highly exposed industries were growing faster (or slower) for unrelated reasons, then any post-2022 relationship between AI exposure and employment could be misleading.
+
+I investigate this by estimating the relationship between AI exposure and cumulative employment growth separately for each month since January 2021. The results provide little evidence of a strong pre-existing trend. Throughout 2021 and most of 2022, the estimated relationship fluctuates around zero, suggesting that industries' eventual AI exposure scores were not strongly associated with their employment performance before ChatGPT's launch.
+
+<iframe src="./assets/growth_ai_coef.html" width="100%" height=800 frameborder="0"></iframe>
+<small>Source: Felten et al. (2021), US Bureau of Labour Statistics.</small>
+
+However, this chart should not be read as conclusive evidence that AI is creating jobs. A more mundane explanation is that some of the fastest-growing industries, particularly in education and healthcare, also happen to receive moderate to high AI exposure scores. These sectors have been buoyed by demographic pressures, rising demand and post-pandemic recovery, while remaining heavily reliant on face-to-face service delivery and are unlikely to be automated away any time soon.
 
 ## Why hasn't employment fallen?
 This presents a bit of a puzzle: if AI capabilities are improving rapidly and [CEOs are openly discussing AI-driven workforce reductions](https://www.businessinsider.com/list-companies-replacing-human-employees-with-ai-layoffs-workforce-reductions), why don't we see stronger evidence of job losses in the data?
@@ -37,9 +44,9 @@ I can think of a few possible explanations, ranging from the practical (limitati
 
 ### 1. AI is not the only thing happening
 
-The period since ChatGPT's launch has coincided with a number of major shifts in the wider economic environment. Industries have continued to adjust following the Covid-19 pandemic, while changes in trade policy, immigration policy, interest rates, and consumer demand have all affected employment across different sectors. [Many of these factors have direct impacts on the same industries with high AI exposure](https://www.apollo.com/content/dam/apolloaem/images/daily-spark/2026/feb/26/feb26-chart2.jpg).
+The period since ChatGPT's launch has coincided with a number of major shifts in the wider economic environment. Industries have continued to adjust following the Covid-19 pandemic, while changes in trade policy, immigration policy, interest rates and consumer demand have all affected employment across different sectors. 
 
-For example, healthcare, education, construction, manufacturing, and professional services have all been affected by broader economic and policy changes that may have little to do with artificial intelligence. As a result, 
+[Many of these factors have direct impacts on the same industries with high AI exposure](https://www.apollo.com/content/dam/apolloaem/images/daily-spark/2026/feb/26/feb26-chart2.jpg). For example, healthcare, education, construction, manufacturing, and professional services have all been affected by broader economic and policy changes that may have little to do with artificial intelligence. 
 
 The absence of a strong relationship between AI exposure and employment growth does not necessarily mean AI is having no effect. Instead, any signal from AI adoption may simply be difficult to isolate from everything else happening in the labour market.
 
@@ -49,7 +56,7 @@ The AIIE scores measure the extent to which an industry's occupations rely on sk
 An industry with a high exposure score may contain many tasks that AI can assist with, but that does not necessarily mean we should expect workers to become redundant as a result. AI may alter the way work is performed within an industry without producing noticable changes in industry-level employment. Existing workers may use AI as a complement rather than a substitute to become more productive or shift toward different tasks.
 
 ### 3. The J-Curve Effect
-The productivity benefits of new technologies are often neither immediate nor automatic. The __["J-curve" theory](https://ide.mit.edu/sites/default/files/publications/2019-04JCurvebrief.final2_.pdf)__[^2] suggests that productivity can initially fall as firms adopt a major new technology as they must invest in new systems, redesign workflows, train workers, and reorganise how work is performed before productivity gains emerge. Picture a letter J that dips down at first before going "to the moon".
+The productivity benefits of new technologies are often neither immediate nor automatic. The __["J-curve" theory](https://ide.mit.edu/sites/default/files/publications/2019-04JCurvebrief.final2_.pdf)__[^2] suggests that productivity can initially fall as firms adopt a major new technology as they must invest in new systems, redesign workflows, train workers and reorganise how work is performed before productivity gains emerge. Picture a letter J that dips down at first before going "to the moon".
 
 If AI follows a similar pattern, highly exposed industries may currently still be working out how to implement it. Firms may even be hiring workers to support AI deployment, integrate new systems, or redesign business processes. 
 
